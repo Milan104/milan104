@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on private projects regarding object detection and more<br>
+🔭 I’m currently working on projects regarding object detection and more<br>
 
 
 ## 🌐 Socials:
